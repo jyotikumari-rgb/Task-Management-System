@@ -1,10 +1,6 @@
 # TASK-Management-System ( Demonstration Project )
 
 # Talk to Jyoti ( AI Astrologer ) [💖 Click here: Jyoti](https://www.jyotish-ai.com?s=gh2)   
-<a href="https://play.google.com/store/apps/details?id=aysrtech.jyai.frontend" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" style="height:40px; margin-top:10px;">
-</a>
-<br><br><br>
 
 ### *Spring Boot and Angular 7 web application for task management .*
 ## Demo
@@ -60,10 +56,7 @@ Read [Google SMTP common issues](https://help.dreamhost.com/hc/en-us/articles/11
 - GOTO the path of **frontend** folder in comand-prompt and run `npm start`  instead of ~~`ng serve`~~ because i have configured different port number for frontend.
 - Now your frontend will be hosted on http://localhost:8001 ,open this link in browser.(only for DEV)
 
-You can connect to me at [Linkedin](https://www.linkedin.com/in/ayushman1024/)
+You can connect to me at [Linkedin](https://www.linkedin.com/in/jyoti-chaudhary-1950a1322/)
 
-Report an issue here [![Gitter](https://badges.gitter.im/TMS-Community/community.svg)](https://gitter.im/TMS-Community/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-<a href="https://www.buymeacoffee.com/ar7HQlZ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" width=15% height=15%></a>
 
-<img src="https://github-pages-visitor.herokuapp.com/counterimg/githubDashboard_TMS" alt="" width="5"/>
