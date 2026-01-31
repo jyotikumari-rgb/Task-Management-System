@@ -3,9 +3,6 @@
 # Talk to Jyoti ( AI Astrologer ) [💖 Click here: Jyoti](https://www.jyotish-ai.com?s=gh2)   
 
 ### *Spring Boot and Angular 7 web application for task management .*
-## Demo
-![DEMO](misc/demo/tms_demo.gif)
-
 ## Introduction
 - Task management system is a demonstration web application developed for team project works where users can manage various tasks within a team easily.
 - Developed on Spring Boot(backend) with Angular v7 (front-end) frameworks and MySql database.
